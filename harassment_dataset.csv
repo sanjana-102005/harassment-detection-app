@@ -1,0 +1,250 @@
+text,label
+"He shouted bad words at me in public",verbal
+"She shouted bad words at me in public",verbal
+"They shouted bad words at me in public",verbal
+"He called me useless and stupid repeatedly",verbal
+"She called me useless and stupid repeatedly",verbal
+"They called me useless and stupid repeatedly",verbal
+"He insulted my looks in front of others",verbal
+"She insulted my looks in front of others",verbal
+"They insulted my looks in front of others",verbal
+"He mocked my accent and humiliated me",verbal
+"She mocked my accent and humiliated me",verbal
+"They mocked my accent and humiliated me",verbal
+"He used casteist slurs against me",verbal
+"She used casteist slurs against me",verbal
+"They used casteist slurs against me",verbal
+"He used racist slurs against me",verbal
+"She used racist slurs against me",verbal
+"They used racist slurs against me",verbal
+"He bullied me daily in class",verbal
+"She bullied me daily in class",verbal
+"They bullied me daily in class",verbal
+"He laughed at me and called me names",verbal
+"She laughed at me and called me names",verbal
+"They laughed at me and called me names",verbal
+"He made fun of my body in public",verbal
+"She made fun of my body in public",verbal
+"They made fun of my body in public",verbal
+"He shouted at me and threatened me with insults",verbal
+"She shouted at me and threatened me with insults",verbal
+"They shouted at me and threatened me with insults",verbal
+"He spread rumors to humiliate me",verbal
+"She spread rumors to humiliate me",verbal
+"They spread rumors to humiliate me",verbal
+"He constantly taunted me in the office",workplace
+"She constantly taunted me in the office",workplace
+"They constantly taunted me in the office",workplace
+"My manager humiliates me in meetings",workplace
+"My supervisor humiliates me in meetings",workplace
+"My team lead humiliates me in meetings",workplace
+"A colleague insults me daily at work",workplace
+"A coworker insults me daily at work",workplace
+"My boss insults me daily at work",workplace
+"He slapped me in public",physical
+"She slapped me in public",physical
+"They slapped me in public",physical
+"He pushed me and I fell down",physical
+"She pushed me and I fell down",physical
+"They pushed me and I fell down",physical
+"He hit me with his hand",physical
+"She hit me with her hand",physical
+"They hit me with their hand",physical
+"He threw something at me",physical
+"She threw something at me",physical
+"They threw something at me",physical
+"He grabbed my arm forcefully",physical
+"She grabbed my arm forcefully",physical
+"They grabbed my arm forcefully",physical
+"He blocked my way and shoved me",physical
+"She blocked my way and shoved me",physical
+"They blocked my way and shoved me",physical
+"He kicked me during an argument",physical
+"She kicked me during an argument",physical
+"They kicked me during an argument",physical
+"He punched me in the face",physical
+"She punched me in the face",physical
+"They punched me in the face",physical
+"He pulled my hair",physical
+"She pulled my hair",physical
+"They pulled my hair",physical
+"He damaged my phone and pushed me",physical
+"She damaged my phone and pushed me",physical
+"They damaged my phone and pushed me",physical
+"He forced me into a room",physical
+"She forced me into a room",physical
+"They forced me into a room",physical
+"He touched me without my consent",sexual
+"She touched me without my consent",sexual
+"They touched me without my consent",sexual
+"He groped me in a crowded place",sexual
+"She groped me in a crowded place",sexual
+"They groped me in a crowded place",sexual
+"He tried to kiss me without permission",sexual
+"She tried to kiss me without permission",sexual
+"They tried to kiss me without permission",sexual
+"He made sexual comments about my body",sexual
+"She made sexual comments about my body",sexual
+"They made sexual comments about my body",sexual
+"He asked me for sexual favors",sexual
+"She asked me for sexual favors",sexual
+"They asked me for sexual favors",sexual
+"He sent me unwanted sexual messages",sexual
+"She sent me unwanted sexual messages",sexual
+"They sent me unwanted sexual messages",sexual
+"He kept touching my waist repeatedly",sexual
+"She kept touching my waist repeatedly",sexual
+"They kept touching my waist repeatedly",sexual
+"He showed me porn without consent",sexual
+"She showed me porn without consent",sexual
+"They showed me porn without consent",sexual
+"He tried to force me into sex",sexual
+"She tried to force me into sex",sexual
+"They tried to force me into sex",sexual
+"He blackmailed me for nude photos",cyber
+"She blackmailed me for nude photos",cyber
+"They blackmailed me for nude photos",cyber
+"He threatened to leak my private photos",threat
+"She threatened to leak my private photos",threat
+"They threatened to leak my private photos",threat
+"He said he will beat me if I report",threat
+"She said she will beat me if I report",threat
+"They said they will beat me if I report",threat
+"He threatened to kill me",threat
+"She threatened to kill me",threat
+"They threatened to kill me",threat
+"He said he will ruin my career",threat
+"She said she will ruin my career",threat
+"They said they will ruin my career",threat
+"He threatened to harm my family",threat
+"She threatened to harm my family",threat
+"They threatened to harm my family",threat
+"He said he will break my phone if I talk",threat
+"She said she will break my phone if I talk",threat
+"They said they will break my phone if I talk",threat
+"He threatened me over WhatsApp",cyber
+"She threatened me over WhatsApp",cyber
+"They threatened me over WhatsApp",cyber
+"He keeps stalking me near my college",stalking
+"She keeps stalking me near my college",stalking
+"They keep stalking me near my college",stalking
+"He follows me daily to my home",stalking
+"She follows me daily to my home",stalking
+"They follow me daily to my home",stalking
+"He waits outside my house",stalking
+"She waits outside my house",stalking
+"They wait outside my house",stalking
+"He keeps coming to my workplace to watch me",stalking
+"She keeps coming to my workplace to watch me",stalking
+"They keep coming to my workplace to watch me",stalking
+"He is tracking my location",stalking
+"She is tracking my location",stalking
+"They are tracking my location",stalking
+"He repeatedly calls me from unknown numbers",stalking
+"She repeatedly calls me from unknown numbers",stalking
+"They repeatedly call me from unknown numbers",stalking
+"He keeps sending gifts even after I said no",stalking
+"She keeps sending gifts even after I said no",stalking
+"They keep sending gifts even after I said no",stalking
+"He created fake accounts to follow me",cyber
+"She created fake accounts to follow me",cyber
+"They created fake accounts to follow me",cyber
+"He hacked my account and changed password",cyber
+"She hacked my account and changed password",cyber
+"They hacked my account and changed password",cyber
+"He posted my photos without permission",cyber
+"She posted my photos without permission",cyber
+"They posted my photos without permission",cyber
+"He is impersonating me online",cyber
+"She is impersonating me online",cyber
+"They are impersonating me online",cyber
+"He shared my phone number publicly",cyber
+"She shared my phone number publicly",cyber
+"They shared my phone number publicly",cyber
+"He sent me abusive messages on Instagram",cyber
+"She sent me abusive messages on Instagram",cyber
+"They sent me abusive messages on Instagram",cyber
+"He sent me sexual memes and dirty texts",cyber
+"She sent me sexual memes and dirty texts",cyber
+"They sent me sexual memes and dirty texts",cyber
+"He is harassing me in online gaming chat",cyber
+"She is harassing me in online gaming chat",cyber
+"They are harassing me in online gaming chat",cyber
+"He recorded me without my knowledge",cyber
+"She recorded me without my knowledge",cyber
+"They recorded me without my knowledge",cyber
+"He shared a private video of me",cyber
+"She shared a private video of me",cyber
+"They shared a private video of me",cyber
+"My manager makes sexual jokes at work",workplace
+"My supervisor makes sexual jokes at work",workplace
+"My colleague makes sexual jokes at work",workplace
+"My boss keeps commenting on my body",workplace
+"My team lead keeps commenting on my body",workplace
+"A coworker keeps commenting on my body",workplace
+"My manager threatens to fire me for rejecting them",workplace
+"My supervisor threatens to fire me for rejecting them",workplace
+"My boss threatens to fire me for rejecting them",workplace
+"My colleague touches me at office without consent",workplace
+"My coworker touches me at office without consent",workplace
+"My manager touches me at office without consent",workplace
+"My manager pressures me to go on dates",workplace
+"My supervisor pressures me to go on dates",workplace
+"My boss pressures me to go on dates",workplace
+"My coworker spreads rumors about me at work",workplace
+"My colleague spreads rumors about me at work",workplace
+"My manager spreads rumors about me at work",workplace
+"My manager shouts and abuses me daily",workplace
+"My supervisor shouts and abuses me daily",workplace
+"My boss shouts and abuses me daily",workplace
+"A senior threatens me for complaining",workplace
+"A manager threatens me for complaining",workplace
+"A colleague threatens me for complaining",workplace
+"He is forcing me to share my password",threat
+"She is forcing me to share my password",threat
+"They are forcing me to share my password",threat
+"He says he will upload my photos",threat
+"She says she will upload my photos",threat
+"They say they will upload my photos",threat
+"He said he will kidnap me",threat
+"She said she will kidnap me",threat
+"They said they will kidnap me",threat
+"He threatened to harm my pet",threat
+"She threatened to harm my pet",threat
+"They threatened to harm my pet",threat
+"He sent me a threatening voice note",cyber
+"She sent me a threatening voice note",cyber
+"They sent me a threatening voice note",cyber
+"He keeps calling me and abusing",cyber
+"She keeps calling me and abusing",cyber
+"They keep calling me and abusing",cyber
+"He is harassing me in Telegram groups",cyber
+"She is harassing me in Telegram groups",cyber
+"They are harassing me in Telegram groups",cyber
+"He followed me from bus stop to home",stalking
+"She followed me from bus stop to home",stalking
+"They followed me from bus stop to home",stalking
+"He waits near my hostel gate daily",stalking
+"She waits near my hostel gate daily",stalking
+"They wait near my hostel gate daily",stalking
+"He keeps taking my pictures secretly",stalking
+"She keeps taking my pictures secretly",stalking
+"They keep taking my pictures secretly",stalking
+"He keeps staring and following in mall",stalking
+"She keeps staring and following in mall",stalking
+"They keep staring and following in mall",stalking
+"My friend said hello and left",non-harassment
+"My friend asked how are you",non-harassment
+"A stranger asked for directions politely",non-harassment
+"My colleague greeted me in office",non-harassment
+"My classmate asked for notes",non-harassment
+"A person accidentally bumped into me and apologized",non-harassment
+"My friend joked normally with me",non-harassment
+"My teammate gave feedback on my work politely",non-harassment
+"My teacher corrected my mistake in class",non-harassment
+"My manager assigned me tasks normally",non-harassment
+"My neighbor said good morning",non-harassment
+"Someone said excuse me and passed by",non-harassment
+"My friend sent a meme that was not abusive",non-harassment
+"My colleague asked for help on project",non-harassment
+"My friend invited me to a party respectfully",non-harassment
