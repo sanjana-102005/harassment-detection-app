@@ -1,255 +1,764 @@
-text,label
-"He shouted bad words at me in public",verbal
-"She shouted bad words at me in public",verbal
-"They shouted bad words at me in public",verbal
-"He called me useless and stupid repeatedly",verbal
-"She called me useless and stupid repeatedly",verbal
-"They called me useless and stupid repeatedly",verbal
-"He insulted my looks in front of others",verbal
-"She insulted my looks in front of others",verbal
-"They insulted my looks in front of others",verbal
-"He mocked my accent and humiliated me",verbal
-"She mocked my accent and humiliated me",verbal
-"They mocked my accent and humiliated me",verbal
-"He used casteist slurs against me",verbal
-"She used casteist slurs against me",verbal
-"They used casteist slurs against me",verbal
-"He used racist slurs against me",verbal
-"She used racist slurs against me",verbal
-"They used racist slurs against me",verbal
-"He bullied me daily in class",verbal
-"She bullied me daily in class",verbal
-"They bullied me daily in class",verbal
-"He laughed at me and called me names",verbal
-"She laughed at me and called me names",verbal
-"They laughed at me and called me names",verbal
-"He made fun of my body in public",verbal
-"She made fun of my body in public",verbal
-"They made fun of my body in public",verbal
-"He shouted at me and threatened me with insults",verbal
-"She shouted at me and threatened me with insults",verbal
-"They shouted at me and threatened me with insults",verbal
-"He spread rumors to humiliate me",verbal
-"She spread rumors to humiliate me",verbal
-"They spread rumors to humiliate me",verbal
-"He constantly taunted me in the office",workplace
-"She constantly taunted me in the office",workplace
-"They constantly taunted me in the office",workplace
-"My manager humiliates me in meetings",workplace
-"My supervisor humiliates me in meetings",workplace
-"My team lead humiliates me in meetings",workplace
-"A colleague insults me daily at work",workplace
-"A coworker insults me daily at work",workplace
-"My boss insults me daily at work",workplace
-"He slapped me in public",physical
-"She slapped me in public",physical
-"They slapped me in public",physical
-"He pushed me and I fell down",physical
-"She pushed me and I fell down",physical
-"They pushed me and I fell down",physical
-"He hit me with his hand",physical
-"She hit me with her hand",physical
-"They hit me with their hand",physical
-"He threw something at me",physical
-"She threw something at me",physical
-"They threw something at me",physical
-"He grabbed my arm forcefully",physical
-"She grabbed my arm forcefully",physical
-"They grabbed my arm forcefully",physical
-"He blocked my way and shoved me",physical
-"She blocked my way and shoved me",physical
-"They blocked my way and shoved me",physical
-"He kicked me during an argument",physical
-"She kicked me during an argument",physical
-"They kicked me during an argument",physical
-"He punched me in the face",physical
-"She punched me in the face",physical
-"They punched me in the face",physical
-"He pulled my hair",physical
-"She pulled my hair",physical
-"They pulled my hair",physical
-"He damaged my phone and pushed me",physical
-"She damaged my phone and pushed me",physical
-"They damaged my phone and pushed me",physical
-"He forced me into a room",physical
-"She forced me into a room",physical
-"They forced me into a room",physical
-"He touched me without my consent",sexual
-"She touched me without my consent",sexual
-"They touched me without my consent",sexual
-"He groped me in a crowded place",sexual
-"She groped me in a crowded place",sexual
-"They groped me in a crowded place",sexual
-"He tried to kiss me without permission",sexual
-"She tried to kiss me without permission",sexual
-"They tried to kiss me without permission",sexual
-"He made sexual comments about my body",sexual
-"She made sexual comments about my body",sexual
-"They made sexual comments about my body",sexual
-"He asked me for sexual favors",sexual
-"She asked me for sexual favors",sexual
-"They asked me for sexual favors",sexual
-"He sent me unwanted sexual messages",sexual
-"She sent me unwanted sexual messages",sexual
-"They sent me unwanted sexual messages",sexual
-"He kept touching my waist repeatedly",sexual
-"She kept touching my waist repeatedly",sexual
-"They kept touching my waist repeatedly",sexual
-"He showed me porn without consent",sexual
-"She showed me porn without consent",sexual
-"They showed me porn without consent",sexual
-"He tried to force me into sex",sexual
-"She tried to force me into sex",sexual
-"They tried to force me into sex",sexual
-"He blackmailed me for nude photos",cyber
-"She blackmailed me for nude photos",cyber
-"They blackmailed me for nude photos",cyber
-"He threatened to leak my private photos",threat
-"She threatened to leak my private photos",threat
-"They threatened to leak my private photos",threat
-"He said he will beat me if I report",threat
-"She said she will beat me if I report",threat
-"They said they will beat me if I report",threat
-"He threatened to kill me",threat
-"She threatened to kill me",threat
-"They threatened to kill me",threat
-"He said he will ruin my career",threat
-"She said she will ruin my career",threat
-"They said they will ruin my career",threat
-"He threatened to harm my family",threat
-"She threatened to harm my family",threat
-"They threatened to harm my family",threat
-"He said he will break my phone if I talk",threat
-"She said she will break my phone if I talk",threat
-"They said they will break my phone if I talk",threat
-"He threatened me over WhatsApp",cyber
-"She threatened me over WhatsApp",cyber
-"They threatened me over WhatsApp",cyber
-"He keeps stalking me near my college",stalking
-"She keeps stalking me near my college",stalking
-"They keep stalking me near my college",stalking
-"He follows me daily to my home",stalking
-"She follows me daily to my home",stalking
-"They follow me daily to my home",stalking
-"He waits outside my house",stalking
-"She waits outside my house",stalking
-"They wait outside my house",stalking
-"He keeps coming to my workplace to watch me",stalking
-"She keeps coming to my workplace to watch me",stalking
-"They keep coming to my workplace to watch me",stalking
-"He is tracking my location",stalking
-"She is tracking my location",stalking
-"They are tracking my location",stalking
-"He repeatedly calls me from unknown numbers",stalking
-"She repeatedly calls me from unknown numbers",stalking
-"They repeatedly call me from unknown numbers",stalking
-"He keeps sending gifts even after I said no",stalking
-"She keeps sending gifts even after I said no",stalking
-"They keep sending gifts even after I said no",stalking
-"He created fake accounts to follow me",cyber
-"She created fake accounts to follow me",cyber
-"They created fake accounts to follow me",cyber
-"He hacked my account and changed password",cyber
-"She hacked my account and changed password",cyber
-"They hacked my account and changed password",cyber
-"He posted my photos without permission",cyber
-"She posted my photos without permission",cyber
-"They posted my photos without permission",cyber
-"He is impersonating me online",cyber
-"She is impersonating me online",cyber
-"They are impersonating me online",cyber
-"He shared my phone number publicly",cyber
-"She shared my phone number publicly",cyber
-"They shared my phone number publicly",cyber
-"He sent me abusive messages on Instagram",cyber
-"She sent me abusive messages on Instagram",cyber
-"They sent me abusive messages on Instagram",cyber
-"He sent me sexual memes and dirty texts",cyber
-"She sent me sexual memes and dirty texts",cyber
-"They sent me sexual memes and dirty texts",cyber
-"He is harassing me in online gaming chat",cyber
-"She is harassing me in online gaming chat",cyber
-"They are harassing me in online gaming chat",cyber
-"He recorded me without my knowledge",cyber
-"She recorded me without my knowledge",cyber
-"They recorded me without my knowledge",cyber
-"He shared a private video of me",cyber
-"She shared a private video of me",cyber
-"They shared a private video of me",cyber
-"My manager makes sexual jokes at work",workplace
-"My supervisor makes sexual jokes at work",workplace
-"My colleague makes sexual jokes at work",workplace
-"My boss keeps commenting on my body",workplace
-"My team lead keeps commenting on my body",workplace
-"A coworker keeps commenting on my body",workplace
-"My manager threatens to fire me for rejecting them",workplace
-"My supervisor threatens to fire me for rejecting them",workplace
-"My boss threatens to fire me for rejecting them",workplace
-"My colleague touches me at office without consent",workplace
-"My coworker touches me at office without consent",workplace
-"My manager touches me at office without consent",workplace
-"My manager pressures me to go on dates",workplace
-"My supervisor pressures me to go on dates",workplace
-"My boss pressures me to go on dates",workplace
-"My coworker spreads rumors about me at work",workplace
-"My colleague spreads rumors about me at work",workplace
-"My manager spreads rumors about me at work",workplace
-"My manager shouts and abuses me daily",workplace
-"My supervisor shouts and abuses me daily",workplace
-"My boss shouts and abuses me daily",workplace
-"A senior threatens me for complaining",workplace
-"A manager threatens me for complaining",workplace
-"A colleague threatens me for complaining",workplace
-"He is forcing me to share my password",threat
-"She is forcing me to share my password",threat
-"They are forcing me to share my password",threat
-"He says he will upload my photos",threat
-"She says she will upload my photos",threat
-"They say they will upload my photos",threat
-"He said he will kidnap me",threat
-"She said she will kidnap me",threat
-"They said they will kidnap me",threat
-"He threatened to harm my pet",threat
-"She threatened to harm my pet",threat
-"They threatened to harm my pet",threat
-"He sent me a threatening voice note",cyber
-"She sent me a threatening voice note",cyber
-"They sent me a threatening voice note",cyber
-"He keeps calling me and abusing",cyber
-"She keeps calling me and abusing",cyber
-"They keep calling me and abusing",cyber
-"He is harassing me in Telegram groups",cyber
-"She is harassing me in Telegram groups",cyber
-"They are harassing me in Telegram groups",cyber
-"He followed me from bus stop to home",stalking
-"She followed me from bus stop to home",stalking
-"They followed me from bus stop to home",stalking
-"He waits near my hostel gate daily",stalking
-"She waits near my hostel gate daily",stalking
-"They wait near my hostel gate daily",stalking
-"He keeps taking my pictures secretly",stalking
-"She keeps taking my pictures secretly",stalking
-"They keep taking my pictures secretly",stalking
-"He keeps staring and following in mall",stalking
-"She keeps staring and following in mall",stalking
-"They keep staring and following in mall",stalking
-"My friend said hello and left",non-harassment
-"My friend asked how are you",non-harassment
-"A stranger asked for directions politely",non-harassment
-"My colleague greeted me in office",non-harassment
-"My classmate asked for notes",non-harassment
-"A person accidentally bumped into me and apologized",non-harassment
-"My friend joked normally with me",non-harassment
-"My teammate gave feedback on my work politely",non-harassment
-"My teacher corrected my mistake in class",non-harassment
-"My manager assigned me tasks normally",non-harassment
-"My neighbor said good morning",non-harassment
-"Someone said excuse me and passed by",non-harassment
-"My friend sent a meme that was not abusive",non-harassment
-"My colleague asked for help on project",non-harassment
-"My friend invited me to a party respectfully",non-harassment
-"My uncle keeps staring at me and I feel unsafe",stalking
-"A man keeps staring at me in the bus and I feel scared",stalking
-"Someone keeps staring at me in college daily",stalking
-"He keeps staring and following me",stalking
-
+ (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
+diff --git a/harassment_dataset.csv b/harassment_dataset.csv
+index c81a1e347242e0b279b94a19512de50299720152..2dd2bb6b9538524d07820a5ad10ee5fbbf7f1b86 100644
+--- a/harassment_dataset.csv
++++ b/harassment_dataset.csv
+@@ -1,255 +1,501 @@
+ text,label
+-"He shouted bad words at me in public",verbal
+-"She shouted bad words at me in public",verbal
+-"They shouted bad words at me in public",verbal
+-"He called me useless and stupid repeatedly",verbal
+-"She called me useless and stupid repeatedly",verbal
+-"They called me useless and stupid repeatedly",verbal
+-"He insulted my looks in front of others",verbal
+-"She insulted my looks in front of others",verbal
+-"They insulted my looks in front of others",verbal
+-"He mocked my accent and humiliated me",verbal
+-"She mocked my accent and humiliated me",verbal
+-"They mocked my accent and humiliated me",verbal
+-"He used casteist slurs against me",verbal
+-"She used casteist slurs against me",verbal
+-"They used casteist slurs against me",verbal
+-"He used racist slurs against me",verbal
+-"She used racist slurs against me",verbal
+-"They used racist slurs against me",verbal
+-"He bullied me daily in class",verbal
+-"She bullied me daily in class",verbal
+-"They bullied me daily in class",verbal
+-"He laughed at me and called me names",verbal
+-"She laughed at me and called me names",verbal
+-"They laughed at me and called me names",verbal
+-"He made fun of my body in public",verbal
+-"She made fun of my body in public",verbal
+-"They made fun of my body in public",verbal
+-"He shouted at me and threatened me with insults",verbal
+-"She shouted at me and threatened me with insults",verbal
+-"They shouted at me and threatened me with insults",verbal
+-"He spread rumors to humiliate me",verbal
+-"She spread rumors to humiliate me",verbal
+-"They spread rumors to humiliate me",verbal
+-"He constantly taunted me in the office",workplace
+-"She constantly taunted me in the office",workplace
+-"They constantly taunted me in the office",workplace
+-"My manager humiliates me in meetings",workplace
+-"My supervisor humiliates me in meetings",workplace
+-"My team lead humiliates me in meetings",workplace
+-"A colleague insults me daily at work",workplace
+-"A coworker insults me daily at work",workplace
+-"My boss insults me daily at work",workplace
+-"He slapped me in public",physical
+-"She slapped me in public",physical
+-"They slapped me in public",physical
+-"He pushed me and I fell down",physical
+-"She pushed me and I fell down",physical
+-"They pushed me and I fell down",physical
+-"He hit me with his hand",physical
+-"She hit me with her hand",physical
+-"They hit me with their hand",physical
+-"He threw something at me",physical
+-"She threw something at me",physical
+-"They threw something at me",physical
+-"He grabbed my arm forcefully",physical
+-"She grabbed my arm forcefully",physical
+-"They grabbed my arm forcefully",physical
+-"He blocked my way and shoved me",physical
+-"She blocked my way and shoved me",physical
+-"They blocked my way and shoved me",physical
+-"He kicked me during an argument",physical
+-"She kicked me during an argument",physical
+-"They kicked me during an argument",physical
+-"He punched me in the face",physical
+-"She punched me in the face",physical
+-"They punched me in the face",physical
+-"He pulled my hair",physical
+-"She pulled my hair",physical
+-"They pulled my hair",physical
+-"He damaged my phone and pushed me",physical
+-"She damaged my phone and pushed me",physical
+-"They damaged my phone and pushed me",physical
+-"He forced me into a room",physical
+-"She forced me into a room",physical
+-"They forced me into a room",physical
+-"He touched me without my consent",sexual
+-"She touched me without my consent",sexual
+-"They touched me without my consent",sexual
+-"He groped me in a crowded place",sexual
+-"She groped me in a crowded place",sexual
+-"They groped me in a crowded place",sexual
+-"He tried to kiss me without permission",sexual
+-"She tried to kiss me without permission",sexual
+-"They tried to kiss me without permission",sexual
+-"He made sexual comments about my body",sexual
+-"She made sexual comments about my body",sexual
+-"They made sexual comments about my body",sexual
+-"He asked me for sexual favors",sexual
+-"She asked me for sexual favors",sexual
+-"They asked me for sexual favors",sexual
+-"He sent me unwanted sexual messages",sexual
+-"She sent me unwanted sexual messages",sexual
+-"They sent me unwanted sexual messages",sexual
+-"He kept touching my waist repeatedly",sexual
+-"She kept touching my waist repeatedly",sexual
+-"They kept touching my waist repeatedly",sexual
+-"He showed me porn without consent",sexual
+-"She showed me porn without consent",sexual
+-"They showed me porn without consent",sexual
+-"He tried to force me into sex",sexual
+-"She tried to force me into sex",sexual
+-"They tried to force me into sex",sexual
+-"He blackmailed me for nude photos",cyber
+-"She blackmailed me for nude photos",cyber
+-"They blackmailed me for nude photos",cyber
+-"He threatened to leak my private photos",threat
+-"She threatened to leak my private photos",threat
+-"They threatened to leak my private photos",threat
+-"He said he will beat me if I report",threat
+-"She said she will beat me if I report",threat
+-"They said they will beat me if I report",threat
+-"He threatened to kill me",threat
+-"She threatened to kill me",threat
+-"They threatened to kill me",threat
+-"He said he will ruin my career",threat
+-"She said she will ruin my career",threat
+-"They said they will ruin my career",threat
+-"He threatened to harm my family",threat
+-"She threatened to harm my family",threat
+-"They threatened to harm my family",threat
+-"He said he will break my phone if I talk",threat
+-"She said she will break my phone if I talk",threat
+-"They said they will break my phone if I talk",threat
+-"He threatened me over WhatsApp",cyber
+-"She threatened me over WhatsApp",cyber
+-"They threatened me over WhatsApp",cyber
+-"He keeps stalking me near my college",stalking
+-"She keeps stalking me near my college",stalking
+-"They keep stalking me near my college",stalking
+-"He follows me daily to my home",stalking
+-"She follows me daily to my home",stalking
+-"They follow me daily to my home",stalking
+-"He waits outside my house",stalking
+-"She waits outside my house",stalking
+-"They wait outside my house",stalking
+-"He keeps coming to my workplace to watch me",stalking
+-"She keeps coming to my workplace to watch me",stalking
+-"They keep coming to my workplace to watch me",stalking
+-"He is tracking my location",stalking
+-"She is tracking my location",stalking
+-"They are tracking my location",stalking
+-"He repeatedly calls me from unknown numbers",stalking
+-"She repeatedly calls me from unknown numbers",stalking
+-"They repeatedly call me from unknown numbers",stalking
+-"He keeps sending gifts even after I said no",stalking
+-"She keeps sending gifts even after I said no",stalking
+-"They keep sending gifts even after I said no",stalking
+-"He created fake accounts to follow me",cyber
+-"She created fake accounts to follow me",cyber
+-"They created fake accounts to follow me",cyber
+-"He hacked my account and changed password",cyber
+-"She hacked my account and changed password",cyber
+-"They hacked my account and changed password",cyber
+-"He posted my photos without permission",cyber
+-"She posted my photos without permission",cyber
+-"They posted my photos without permission",cyber
+-"He is impersonating me online",cyber
+-"She is impersonating me online",cyber
+-"They are impersonating me online",cyber
+-"He shared my phone number publicly",cyber
+-"She shared my phone number publicly",cyber
+-"They shared my phone number publicly",cyber
+-"He sent me abusive messages on Instagram",cyber
+-"She sent me abusive messages on Instagram",cyber
+-"They sent me abusive messages on Instagram",cyber
+-"He sent me sexual memes and dirty texts",cyber
+-"She sent me sexual memes and dirty texts",cyber
+-"They sent me sexual memes and dirty texts",cyber
+-"He is harassing me in online gaming chat",cyber
+-"She is harassing me in online gaming chat",cyber
+-"They are harassing me in online gaming chat",cyber
+-"He recorded me without my knowledge",cyber
+-"She recorded me without my knowledge",cyber
+-"They recorded me without my knowledge",cyber
+-"He shared a private video of me",cyber
+-"She shared a private video of me",cyber
+-"They shared a private video of me",cyber
+-"My manager makes sexual jokes at work",workplace
+-"My supervisor makes sexual jokes at work",workplace
+-"My colleague makes sexual jokes at work",workplace
+-"My boss keeps commenting on my body",workplace
+-"My team lead keeps commenting on my body",workplace
+-"A coworker keeps commenting on my body",workplace
+-"My manager threatens to fire me for rejecting them",workplace
+-"My supervisor threatens to fire me for rejecting them",workplace
+-"My boss threatens to fire me for rejecting them",workplace
+-"My colleague touches me at office without consent",workplace
+-"My coworker touches me at office without consent",workplace
+-"My manager touches me at office without consent",workplace
+-"My manager pressures me to go on dates",workplace
+-"My supervisor pressures me to go on dates",workplace
+-"My boss pressures me to go on dates",workplace
+-"My coworker spreads rumors about me at work",workplace
+-"My colleague spreads rumors about me at work",workplace
+-"My manager spreads rumors about me at work",workplace
+-"My manager shouts and abuses me daily",workplace
+-"My supervisor shouts and abuses me daily",workplace
+-"My boss shouts and abuses me daily",workplace
+-"A senior threatens me for complaining",workplace
+-"A manager threatens me for complaining",workplace
+-"A colleague threatens me for complaining",workplace
+-"He is forcing me to share my password",threat
+-"She is forcing me to share my password",threat
+-"They are forcing me to share my password",threat
+-"He says he will upload my photos",threat
+-"She says she will upload my photos",threat
+-"They say they will upload my photos",threat
+-"He said he will kidnap me",threat
+-"She said she will kidnap me",threat
+-"They said they will kidnap me",threat
+-"He threatened to harm my pet",threat
+-"She threatened to harm my pet",threat
+-"They threatened to harm my pet",threat
+-"He sent me a threatening voice note",cyber
+-"She sent me a threatening voice note",cyber
+-"They sent me a threatening voice note",cyber
+-"He keeps calling me and abusing",cyber
+-"She keeps calling me and abusing",cyber
+-"They keep calling me and abusing",cyber
+-"He is harassing me in Telegram groups",cyber
+-"She is harassing me in Telegram groups",cyber
+-"They are harassing me in Telegram groups",cyber
+-"He followed me from bus stop to home",stalking
+-"She followed me from bus stop to home",stalking
+-"They followed me from bus stop to home",stalking
+-"He waits near my hostel gate daily",stalking
+-"She waits near my hostel gate daily",stalking
+-"They wait near my hostel gate daily",stalking
+-"He keeps taking my pictures secretly",stalking
+-"She keeps taking my pictures secretly",stalking
+-"They keep taking my pictures secretly",stalking
+-"He keeps staring and following in mall",stalking
+-"She keeps staring and following in mall",stalking
+-"They keep staring and following in mall",stalking
+-"My friend said hello and left",non-harassment
+-"My friend asked how are you",non-harassment
+-"A stranger asked for directions politely",non-harassment
+-"My colleague greeted me in office",non-harassment
+-"My classmate asked for notes",non-harassment
+-"A person accidentally bumped into me and apologized",non-harassment
+-"My friend joked normally with me",non-harassment
+-"My teammate gave feedback on my work politely",non-harassment
+-"My teacher corrected my mistake in class",non-harassment
+-"My manager assigned me tasks normally",non-harassment
+-"My neighbor said good morning",non-harassment
+-"Someone said excuse me and passed by",non-harassment
+-"My friend sent a meme that was not abusive",non-harassment
+-"My colleague asked for help on project",non-harassment
+-"My friend invited me to a party respectfully",non-harassment
+-"My uncle keeps staring at me and I feel unsafe",stalking
+-"A man keeps staring at me in the bus and I feel scared",stalking
+-"Someone keeps staring at me in college daily",stalking
+-"He keeps staring and following me",stalking
+-
++I need help because a stranger kept calling me insulting names in the parking area.,verbal
++I felt unsafe when a customer shouted humiliating comments about my appearance during a team call.,verbal
++I felt unsafe when a neighbor verbally bullied me every day this week at a café.,verbal
++This happened repeatedly: a classmate mocked my accent and background loudly in the apartment corridor.,verbal
++Yesterday a classmate made demeaning jokes about me in the apartment corridor.,verbal
++Yesterday a commuter shouted humiliating comments about my appearance near my home.,verbal
++This happened repeatedly: a vendor kept calling me insulting names outside my workplace.,verbal
++This happened repeatedly: a commuter kept insulting my identity and beliefs on campus.,verbal
++I felt unsafe when a teammate kept insulting my identity and beliefs in the office.,verbal
++I need help because a rider mocked my accent and background loudly in a group chat.,verbal
++I reported that a vendor kept calling me insulting names in the parking area.,verbal
++Yesterday a stranger publicly ridiculed me to embarrass me in the office.,verbal
++I need help because a senior student verbally bullied me every day this week in the hostel.,verbal
++This happened repeatedly: a teammate mocked my accent and background loudly at the bus stop.,verbal
++This happened repeatedly: a senior student mocked my accent and background loudly in the classroom.,verbal
++I reported that a stranger publicly ridiculed me to embarrass me on campus.,verbal
++I need help because a supervisor used abusive language toward me repeatedly in a group chat.,verbal
++I felt unsafe when a teammate taunted me with slurs in front of others in the parking area.,verbal
++This happened repeatedly: someone at the gym made demeaning jokes about me in the parking area.,verbal
++I need help because someone at the gym repeatedly yelled that I am worthless at a café.,verbal
++I felt unsafe when a customer kept insulting my identity and beliefs in the classroom.,verbal
++I need help because a customer kept calling me insulting names outside my workplace.,verbal
++This happened repeatedly: a rider taunted me with slurs in front of others in the office.,verbal
++I reported that a junior employee shouted humiliating comments about my appearance in a meeting room.,verbal
++I need help because a rider repeatedly yelled that I am worthless during a team call.,verbal
++Yesterday my ex-partner shouted humiliating comments about my appearance in the parking area.,verbal
++Yesterday a vendor verbally bullied me every day this week at a café.,verbal
++This happened repeatedly: a rider kept insulting my identity and beliefs in the apartment corridor.,verbal
++I felt unsafe when a person in my building mocked my accent and background loudly outside my workplace.,verbal
++This happened repeatedly: a stranger used abusive language toward me repeatedly in a meeting room.,verbal
++I reported that a commuter verbally bullied me every day this week in the office.,verbal
++Yesterday a rider verbally bullied me every day this week near my home.,verbal
++I felt unsafe when a vendor made demeaning jokes about me in the classroom.,verbal
++I need help because a stranger made demeaning jokes about me outside my workplace.,verbal
++I reported that a junior employee mocked my accent and background loudly on campus.,verbal
++I need help because someone at the gym repeatedly yelled that I am worthless at the bus stop.,verbal
++I felt unsafe when someone at the gym made demeaning jokes about me in the hostel.,verbal
++This happened repeatedly: a senior student made demeaning jokes about me at a store.,verbal
++This happened repeatedly: my ex-partner kept insulting my identity and beliefs outside my workplace.,verbal
++I reported that a classmate verbally bullied me every day this week in a group chat.,verbal
++I need help because a classmate mocked my accent and background loudly in the hostel.,verbal
++This happened repeatedly: a senior student shouted humiliating comments about my appearance at the bus stop.,verbal
++I reported that a neighbor mocked my accent and background loudly in the parking area.,verbal
++This happened repeatedly: a neighbor made demeaning jokes about me outside my workplace.,verbal
++This happened repeatedly: my ex-partner repeatedly yelled that I am worthless during commute.,verbal
++Yesterday a vendor made demeaning jokes about me in the classroom.,verbal
++Yesterday a commuter shouted humiliating comments about my appearance in the hostel.,verbal
++I need help because a teammate taunted me with slurs in front of others at a café.,verbal
++I felt unsafe when a gamer made demeaning jokes about me near my home.,verbal
++I need help because a customer shouted humiliating comments about my appearance in the office.,verbal
++This happened repeatedly: a classmate verbally bullied me every day this week during commute.,verbal
++I felt unsafe when a customer kept calling me insulting names in the office.,verbal
++I felt unsafe when a customer mocked my accent and background loudly in the hostel.,verbal
++This happened repeatedly: a junior employee mocked my accent and background loudly during commute.,verbal
++Yesterday a vendor repeatedly yelled that I am worthless in the apartment corridor.,verbal
++I reported that my ex-partner verbally bullied me every day this week at a store.,verbal
++I reported that a customer repeatedly yelled that I am worthless outside my workplace.,verbal
++I reported that a teammate mocked my accent and background loudly in the office.,verbal
++I reported that a supervisor publicly ridiculed me to embarrass me at a café.,verbal
++I reported that a coworker mocked my accent and background loudly at the bus stop.,verbal
++This happened repeatedly: a junior employee mocked my accent and background loudly in the apartment corridor.,verbal
++This happened repeatedly: a teammate made demeaning jokes about me near my home.,verbal
++I reported that a commuter tried to touch me inappropriately without consent on campus.,sexual
++Yesterday a customer sent unwanted sexual messages after I said stop near my home.,sexual
++Yesterday a stranger made repeated sexual comments about my body in a meeting room.,sexual
++This happened repeatedly: a classmate sent unwanted sexual messages after I said stop in the hostel.,sexual
++I reported that someone at the gym kept pressuring me for intimate photos near my home.,sexual
++I felt unsafe when a teammate kept pressuring me for intimate photos in the hostel.,sexual
++I reported that someone at the gym kept pressuring me for intimate photos at the bus stop.,sexual
++I reported that a vendor blocked my way and made sexual remarks on campus.,sexual
++I need help because a person in my building tried to touch me inappropriately without consent in the apartment corridor.,sexual
++Yesterday a teammate made repeated sexual comments about my body at a store.,sexual
++I felt unsafe when a coworker shared explicit sexual jokes directed at me at the bus stop.,sexual
++Yesterday a person in my building grabbed me and tried to kiss me without consent in the hostel.,sexual
++I felt unsafe when someone at the gym made repeated sexual comments about my body during commute.,sexual
++I felt unsafe when someone at the gym sent unwanted sexual messages after I said stop at a store.,sexual
++Yesterday a customer kept pressuring me for intimate photos in the office.,sexual
++I felt unsafe when a customer described explicit acts to make me uncomfortable at a store.,sexual
++Yesterday a neighbor kept pressuring me for intimate photos in a meeting room.,sexual
++I need help because a junior employee groped me in a crowded place in the apartment corridor.,sexual
++This happened repeatedly: a customer groped me in a crowded place at a café.,sexual
++I felt unsafe when a senior student blocked my way and made sexual remarks in a group chat.,sexual
++Yesterday a classmate blocked my way and made sexual remarks at a store.,sexual
++This happened repeatedly: a stranger sent unwanted sexual messages after I said stop during commute.,sexual
++I need help because a vendor tried to touch me inappropriately without consent in the hostel.,sexual
++I need help because a neighbor kept asking for sexual favors in exchange for help in a group chat.,sexual
++Yesterday someone at the gym blocked my way and made sexual remarks in the classroom.,sexual
++Yesterday a senior student described explicit acts to make me uncomfortable outside my workplace.,sexual
++I felt unsafe when a classmate grabbed me and tried to kiss me without consent on campus.,sexual
++I felt unsafe when my ex-partner groped me in a crowded place in the office.,sexual
++Yesterday my ex-partner groped me in a crowded place on campus.,sexual
++I need help because a teammate shared explicit sexual jokes directed at me in the apartment corridor.,sexual
++I felt unsafe when a person in my building groped me in a crowded place in the hostel.,sexual
++I need help because a neighbor kept pressuring me for intimate photos in the classroom.,sexual
++This happened repeatedly: a coworker made repeated sexual comments about my body in a group chat.,sexual
++I reported that a vendor tried to touch me inappropriately without consent in the parking area.,sexual
++I felt unsafe when a commuter grabbed me and tried to kiss me without consent at the bus stop.,sexual
++I felt unsafe when a neighbor tried to touch me inappropriately without consent during commute.,sexual
++This happened repeatedly: a supervisor described explicit acts to make me uncomfortable during commute.,sexual
++I need help because a commuter tried to touch me inappropriately without consent at the bus stop.,sexual
++I need help because a supervisor made repeated sexual comments about my body in the hostel.,sexual
++I felt unsafe when a teammate kept asking for sexual favors in exchange for help in a meeting room.,sexual
++I reported that a supervisor grabbed me and tried to kiss me without consent in the hostel.,sexual
++This happened repeatedly: my ex-partner kept asking for sexual favors in exchange for help in the classroom.,sexual
++This happened repeatedly: someone at the gym kept pressuring me for intimate photos at the bus stop.,sexual
++This happened repeatedly: a junior employee kept pressuring me for intimate photos outside my workplace.,sexual
++I felt unsafe when a vendor tried to touch me inappropriately without consent outside my workplace.,sexual
++I reported that a rider made repeated sexual comments about my body in the classroom.,sexual
++I reported that a customer kept asking for sexual favors in exchange for help in the classroom.,sexual
++This happened repeatedly: a supervisor groped me in a crowded place in the classroom.,sexual
++This happened repeatedly: a customer made repeated sexual comments about my body in a meeting room.,sexual
++I felt unsafe when a rider shared explicit sexual jokes directed at me on campus.,sexual
++Yesterday a vendor shared explicit sexual jokes directed at me in a meeting room.,sexual
++I felt unsafe when a rider grabbed me and tried to kiss me without consent in a group chat.,sexual
++Yesterday a stranger groped me in a crowded place during a team call.,sexual
++Yesterday a vendor made repeated sexual comments about my body in the office.,sexual
++I need help because a commuter shared explicit sexual jokes directed at me in the parking area.,sexual
++I felt unsafe when a commuter described explicit acts to make me uncomfortable during commute.,sexual
++I need help because a rider described explicit acts to make me uncomfortable in the apartment corridor.,sexual
++Yesterday a coworker kept pressuring me for intimate photos at the bus stop.,sexual
++I felt unsafe when a teammate shared explicit sexual jokes directed at me at a café.,sexual
++I felt unsafe when a junior employee described explicit acts to make me uncomfortable in a group chat.,sexual
++I reported that a senior student grabbed me and tried to kiss me without consent on campus.,sexual
++I need help because a junior employee kept pressuring me for intimate photos in the parking area.,sexual
++I reported that my ex-partner posted edited images to humiliate me online at a café.,cyber
++I need help because someone at the gym circulated false rumors about me in online forums at a store.,cyber
++I felt unsafe when a rider kept tagging me in defamatory posts in the classroom.,cyber
++I reported that a senior student shared my phone number in public groups without consent in the apartment corridor.,cyber
++I reported that a junior employee hacked my account and sent offensive messages as me near my home.,cyber
++This happened repeatedly: a teammate kept tagging me in defamatory posts near my home.,cyber
++Yesterday a neighbor shared my phone number in public groups without consent during commute.,cyber
++This happened repeatedly: a junior employee kept sending abusive DMs from multiple accounts in the classroom.,cyber
++This happened repeatedly: a senior student posted edited images to humiliate me online outside my workplace.,cyber
++This happened repeatedly: my ex-partner created a fake profile to impersonate me online at the bus stop.,cyber
++I felt unsafe when a person in my building circulated false rumors about me in online forums in the classroom.,cyber
++Yesterday a gamer recorded my video call and tried to blackmail me in the hostel.,cyber
++I reported that a teammate recorded my video call and tried to blackmail me near my home.,cyber
++I felt unsafe when a customer threatened to leak my private photos on social media in a meeting room.,cyber
++This happened repeatedly: a stranger recorded my video call and tried to blackmail me in the apartment corridor.,cyber
++This happened repeatedly: a gamer created a fake profile to impersonate me online during commute.,cyber
++I reported that a stranger hacked my account and sent offensive messages as me during a team call.,cyber
++Yesterday a junior employee hacked my account and sent offensive messages as me at a store.,cyber
++This happened repeatedly: a commuter kept tagging me in defamatory posts near my home.,cyber
++This happened repeatedly: a person in my building hacked my account and sent offensive messages as me on campus.,cyber
++This happened repeatedly: a vendor kept tagging me in defamatory posts near my home.,cyber
++I need help because a vendor hacked my account and sent offensive messages as me in the office.,cyber
++I need help because a customer shared my phone number in public groups without consent in a group chat.,cyber
++This happened repeatedly: a neighbor threatened to leak my private photos on social media during a team call.,cyber
++This happened repeatedly: a rider threatened to leak my private photos on social media in the parking area.,cyber
++I need help because a neighbor recorded my video call and tried to blackmail me at a café.,cyber
++This happened repeatedly: a gamer recorded my video call and tried to blackmail me at the bus stop.,cyber
++Yesterday a commuter recorded my video call and tried to blackmail me in the hostel.,cyber
++I reported that a classmate circulated false rumors about me in online forums at a café.,cyber
++I reported that a classmate kept emailing harassment messages from anonymous IDs on campus.,cyber
++Yesterday a commuter kept tagging me in defamatory posts in the parking area.,cyber
++I need help because a customer hacked my account and sent offensive messages as me in the apartment corridor.,cyber
++I reported that a commuter hacked my account and sent offensive messages as me at the bus stop.,cyber
++This happened repeatedly: a junior employee recorded my video call and tried to blackmail me in the parking area.,cyber
++Yesterday a gamer threatened to leak my private photos on social media at a store.,cyber
++Yesterday a classmate recorded my video call and tried to blackmail me at a store.,cyber
++I reported that a classmate kept sending abusive DMs from multiple accounts in a meeting room.,cyber
++I felt unsafe when my ex-partner hacked my account and sent offensive messages as me during a team call.,cyber
++This happened repeatedly: a vendor recorded my video call and tried to blackmail me in a group chat.,cyber
++I reported that a gamer kept emailing harassment messages from anonymous IDs in a group chat.,cyber
++I felt unsafe when a vendor recorded my video call and tried to blackmail me on campus.,cyber
++Yesterday a person in my building created a fake profile to impersonate me online in the parking area.,cyber
++I felt unsafe when a coworker kept emailing harassment messages from anonymous IDs in the apartment corridor.,cyber
++This happened repeatedly: a coworker created a fake profile to impersonate me online in the apartment corridor.,cyber
++This happened repeatedly: a classmate circulated false rumors about me in online forums during a team call.,cyber
++I felt unsafe when my ex-partner hacked my account and sent offensive messages as me in a meeting room.,cyber
++I need help because a teammate hacked my account and sent offensive messages as me in the parking area.,cyber
++Yesterday a supervisor threatened to leak my private photos on social media at a store.,cyber
++I felt unsafe when a stranger threatened to leak my private photos on social media on campus.,cyber
++I reported that a classmate shared my phone number in public groups without consent at a store.,cyber
++Yesterday a rider posted edited images to humiliate me online in the office.,cyber
++I need help because a customer kept sending abusive DMs from multiple accounts in the parking area.,cyber
++I felt unsafe when a stranger circulated false rumors about me in online forums outside my workplace.,cyber
++I need help because a supervisor kept tagging me in defamatory posts at a café.,cyber
++I need help because a neighbor kept tagging me in defamatory posts in a meeting room.,cyber
++I reported that a classmate recorded my video call and tried to blackmail me in the classroom.,cyber
++I reported that a stranger recorded my video call and tried to blackmail me in a group chat.,cyber
++Yesterday my ex-partner recorded my video call and tried to blackmail me during a team call.,cyber
++Yesterday a vendor circulated false rumors about me in online forums outside my workplace.,cyber
++Yesterday a person in my building hacked my account and sent offensive messages as me at a café.,cyber
++This happened repeatedly: a vendor kept emailing harassment messages from anonymous IDs in the classroom.,cyber
++I reported that a neighbor shared my phone number in public groups without consent in the hostel.,cyber
++Yesterday a customer monitored my location updates without permission at a store.,stalking
++I reported that a rider showed up near my hostel late at night repeatedly at the bus stop.,stalking
++This happened repeatedly: a junior employee tracked my routine and appeared wherever I went near my home.,stalking
++I need help because a supervisor followed me on a bike after I asked them to stop in a group chat.,stalking
++Yesterday a vendor followed me through different train stations at the bus stop.,stalking
++I reported that a teammate waited outside my building almost every evening in the apartment corridor.,stalking
++This happened repeatedly: a person in my building followed me through different train stations outside my workplace.,stalking
++I felt unsafe when a person in my building monitored my location updates without permission near my home.,stalking
++I reported that a neighbor followed me on a bike after I asked them to stop in the apartment corridor.,stalking
++Yesterday a customer followed me on a bike after I asked them to stop in a meeting room.,stalking
++Yesterday a supervisor monitored my location updates without permission during commute.,stalking
++Yesterday a supervisor kept calling from unknown numbers and hanging up in the parking area.,stalking
++I reported that a junior employee showed up near my hostel late at night repeatedly in the parking area.,stalking
++This happened repeatedly: a vendor followed me on a bike after I asked them to stop on campus.,stalking
++I felt unsafe when a stranger kept watching me from outside my classroom in a group chat.,stalking
++I reported that someone at the gym kept watching me from outside my classroom in the apartment corridor.,stalking
++Yesterday a vendor kept standing outside my office entrance to watch me outside my workplace.,stalking
++This happened repeatedly: a senior student waited outside my building almost every evening in the classroom.,stalking
++This happened repeatedly: a senior student kept watching me from outside my classroom in a group chat.,stalking
++Yesterday a senior student followed me from work to my home repeatedly in the parking area.,stalking
++I felt unsafe when my ex-partner followed me on a bike after I asked them to stop at the bus stop.,stalking
++I reported that a senior student tracked my routine and appeared wherever I went in a meeting room.,stalking
++I need help because a stranger followed me from work to my home repeatedly at a store.,stalking
++I need help because a person in my building monitored my location updates without permission near my home.,stalking
++I reported that someone at the gym followed me from work to my home repeatedly on campus.,stalking
++I reported that a stranger waited outside my building almost every evening at a café.,stalking
++I felt unsafe when a neighbor kept standing outside my office entrance to watch me in a meeting room.,stalking
++Yesterday my ex-partner tracked my routine and appeared wherever I went outside my workplace.,stalking
++I felt unsafe when a senior student waited outside my building almost every evening in the apartment corridor.,stalking
++Yesterday a commuter kept standing outside my office entrance to watch me at a store.,stalking
++I reported that a customer followed me through different train stations at a café.,stalking
++Yesterday a gamer followed me on a bike after I asked them to stop in the classroom.,stalking
++Yesterday a commuter followed me on a bike after I asked them to stop at a store.,stalking
++I felt unsafe when a coworker kept standing outside my office entrance to watch me in the parking area.,stalking
++I felt unsafe when a teammate kept watching me from outside my classroom on campus.,stalking
++Yesterday someone at the gym kept watching me from outside my classroom during a team call.,stalking
++I reported that a neighbor tracked my routine and appeared wherever I went at the bus stop.,stalking
++I need help because a gamer kept standing outside my office entrance to watch me near my home.,stalking
++I need help because a coworker kept watching me from outside my classroom on campus.,stalking
++This happened repeatedly: a gamer waited outside my building almost every evening in a meeting room.,stalking
++This happened repeatedly: a vendor kept standing outside my office entrance to watch me in a meeting room.,stalking
++This happened repeatedly: a commuter waited outside my building almost every evening during commute.,stalking
++This happened repeatedly: my ex-partner followed me on a bike after I asked them to stop in the classroom.,stalking
++I need help because a neighbor followed me from work to my home repeatedly during a team call.,stalking
++I reported that a senior student monitored my location updates without permission in the office.,stalking
++Yesterday a senior student kept calling from unknown numbers and hanging up on campus.,stalking
++Yesterday a person in my building monitored my location updates without permission in the office.,stalking
++I need help because a coworker kept calling from unknown numbers and hanging up in the parking area.,stalking
++This happened repeatedly: a vendor followed me from work to my home repeatedly in the office.,stalking
++I felt unsafe when a classmate followed me on a bike after I asked them to stop at a store.,stalking
++I reported that someone at the gym monitored my location updates without permission during commute.,stalking
++I reported that a vendor tracked my routine and appeared wherever I went at a store.,stalking
++I need help because a person in my building waited outside my building almost every evening near my home.,stalking
++I felt unsafe when a commuter showed up near my hostel late at night repeatedly in a group chat.,stalking
++I reported that someone at the gym showed up near my hostel late at night repeatedly at a café.,stalking
++Yesterday a senior student kept calling from unknown numbers and hanging up in the classroom.,stalking
++I need help because a coworker monitored my location updates without permission in the office.,stalking
++I reported that a vendor showed up near my hostel late at night repeatedly in the office.,stalking
++I reported that a classmate followed me through different train stations near my home.,stalking
++I need help because a coworker kept watching me from outside my classroom during commute.,stalking
++I felt unsafe when a person in my building monitored my location updates without permission outside my workplace.,stalking
++This happened repeatedly: a teammate followed me on a bike after I asked them to stop during commute.,stalking
++I reported that a senior student warned me that I would be harmed if I blocked them in the hostel.,threat
++Yesterday a stranger said they would hurt me if I reported them in a meeting room.,threat
++Yesterday a customer sent messages saying they would attack my family on campus.,threat
++I felt unsafe when a classmate sent voice notes promising violent revenge at a café.,threat
++I felt unsafe when a customer threatened to ruin my career with false allegations near my home.,threat
++I need help because my ex-partner warned me that I would be harmed if I blocked them in the hostel.,threat
++I reported that a vendor threatened to beat me in front of others in the classroom.,threat
++Yesterday a person in my building blackmailed me and demanded money to stay silent near my home.,threat
++Yesterday my ex-partner threatened to beat me in front of others in the apartment corridor.,threat
++I reported that my ex-partner threatened to ruin my career with false allegations on campus.,threat
++I felt unsafe when a junior employee sent voice notes promising violent revenge on campus.,threat
++Yesterday a senior student threatened to share private details unless I obeyed in the classroom.,threat
++Yesterday a person in my building sent messages saying they would attack my family near my home.,threat
++Yesterday a person in my building said they would kidnap me after work in a group chat.,threat
++I need help because a rider warned me that I would be harmed if I blocked them in the hostel.,threat
++I reported that a teammate blackmailed me and demanded money to stay silent at a store.,threat
++I need help because a customer threatened to beat me in front of others at the bus stop.,threat
++This happened repeatedly: a person in my building threatened to beat me in front of others at a café.,threat
++Yesterday a person in my building said they would hurt me if I reported them during a team call.,threat
++I reported that a junior employee threatened to ruin my career with false allegations in the classroom.,threat
++I reported that a stranger sent voice notes promising violent revenge in the hostel.,threat
++This happened repeatedly: a classmate sent messages saying they would attack my family at a café.,threat
++I need help because a neighbor warned me that I would be harmed if I blocked them outside my workplace.,threat
++I reported that a junior employee threatened to damage my property if I complained in the parking area.,threat
++Yesterday a neighbor said they would kidnap me after work in the classroom.,threat
++I reported that a rider said they would kidnap me after work in a meeting room.,threat
++This happened repeatedly: a coworker threatened to damage my property if I complained in the office.,threat
++I felt unsafe when a senior student blackmailed me and demanded money to stay silent in the parking area.,threat
++I felt unsafe when a commuter threatened to ruin my career with false allegations outside my workplace.,threat
++I need help because a gamer sent messages saying they would attack my family in the parking area.,threat
++I felt unsafe when a classmate said they would hurt me if I reported them in a group chat.,threat
++I reported that a senior student said they would kidnap me after work in a group chat.,threat
++I reported that my ex-partner blackmailed me and demanded money to stay silent during commute.,threat
++I felt unsafe when someone at the gym sent messages saying they would attack my family during a team call.,threat
++This happened repeatedly: a rider threatened to damage my property if I complained in a meeting room.,threat
++This happened repeatedly: a person in my building threatened to damage my property if I complained during a team call.,threat
++I need help because a gamer threatened to share private details unless I obeyed near my home.,threat
++I need help because a classmate warned me that I would be harmed if I blocked them in the hostel.,threat
++I need help because someone at the gym threatened to ruin my career with false allegations near my home.,threat
++I need help because a senior student threatened to beat me in front of others in the parking area.,threat
++I reported that a gamer threatened to share private details unless I obeyed in the apartment corridor.,threat
++I reported that a person in my building threatened to ruin my career with false allegations in the apartment corridor.,threat
++I need help because a supervisor threatened to damage my property if I complained on campus.,threat
++I felt unsafe when a classmate threatened to beat me in front of others on campus.,threat
++I reported that a coworker threatened to damage my property if I complained in the parking area.,threat
++I need help because a senior student blackmailed me and demanded money to stay silent at a store.,threat
++I need help because a customer blackmailed me and demanded money to stay silent at a store.,threat
++I felt unsafe when my ex-partner threatened to ruin my career with false allegations in the hostel.,threat
++Yesterday a senior student warned me that I would be harmed if I blocked them at the bus stop.,threat
++I need help because a supervisor sent messages saying they would attack my family in the office.,threat
++This happened repeatedly: a junior employee threatened to beat me in front of others during a team call.,threat
++I need help because my ex-partner sent voice notes promising violent revenge in the hostel.,threat
++I reported that a vendor sent messages saying they would attack my family on campus.,threat
++I felt unsafe when a senior student said they would kidnap me after work outside my workplace.,threat
++This happened repeatedly: a gamer threatened to ruin my career with false allegations during a team call.,threat
++I felt unsafe when a rider sent voice notes promising violent revenge in a group chat.,threat
++Yesterday a rider said they would hurt me if I reported them on campus.,threat
++I need help because a stranger warned me that I would be harmed if I blocked them in a group chat.,threat
++This happened repeatedly: a rider said they would kidnap me after work in the office.,threat
++Yesterday a person in my building said they would hurt me if I reported them at a store.,threat
++I felt unsafe when a junior employee threatened to damage my property if I complained in the apartment corridor.,threat
++I reported that a gamer threatened to share private details unless I obeyed in a meeting room.,threat
++I felt unsafe when a stranger excludes me from key communication to sabotage my work at the bus stop.,workplace
++I felt unsafe when a senior student publicly blames me for mistakes I did not make in the office.,workplace
++I reported that a customer uses intimidation to silence me during reviews during a team call.,workplace
++Yesterday a gamer pressures me with personal remarks unrelated to work in a meeting room.,workplace
++This happened repeatedly: a commuter keeps messaging me after hours with harassing comments in the parking area.,workplace
++I reported that a commuter assigns impossible deadlines and insults me when I fail in the classroom.,workplace
++I need help because a commuter retaliated after I raised a complaint at the bus stop.,workplace
++This happened repeatedly: a teammate publicly blames me for mistakes I did not make near my home.,workplace
++I need help because a supervisor assigns impossible deadlines and insults me when I fail in a meeting room.,workplace
++I need help because a supervisor repeatedly humiliates me in team meetings at a café.,workplace
++I reported that a teammate assigns impossible deadlines and insults me when I fail in the classroom.,workplace
++Yesterday a neighbor keeps making hostile comments about my identity at work in a meeting room.,workplace
++I need help because a classmate repeatedly humiliates me in team meetings outside my workplace.,workplace
++Yesterday a customer excludes me from key communication to sabotage my work outside my workplace.,workplace
++Yesterday a teammate assigns impossible deadlines and insults me when I fail in the classroom.,workplace
++This happened repeatedly: a teammate keeps messaging me after hours with harassing comments in the apartment corridor.,workplace
++Yesterday a junior employee excludes me from key communication to sabotage my work outside my workplace.,workplace
++This happened repeatedly: a classmate retaliated after I raised a complaint in the classroom.,workplace
++This happened repeatedly: my ex-partner uses intimidation to silence me during reviews on campus.,workplace
++I felt unsafe when a stranger repeatedly humiliates me in team meetings during a team call.,workplace
++I need help because a supervisor keeps making hostile comments about my identity at work at a store.,workplace
++I felt unsafe when a classmate excludes me from key communication to sabotage my work on campus.,workplace
++I felt unsafe when my ex-partner threatens poor ratings unless I accept inappropriate behavior during commute.,workplace
++I need help because a neighbor publicly blames me for mistakes I did not make near my home.,workplace
++This happened repeatedly: a stranger publicly blames me for mistakes I did not make during commute.,workplace
++I reported that a coworker uses intimidation to silence me during reviews on campus.,workplace
++I reported that a classmate repeatedly humiliates me in team meetings near my home.,workplace
++I reported that a commuter assigns impossible deadlines and insults me when I fail near my home.,workplace
++Yesterday a neighbor assigns impossible deadlines and insults me when I fail in a group chat.,workplace
++I need help because my ex-partner assigns impossible deadlines and insults me when I fail during a team call.,workplace
++Yesterday a junior employee threatens poor ratings unless I accept inappropriate behavior at a store.,workplace
++Yesterday a senior student publicly blames me for mistakes I did not make during commute.,workplace
++I felt unsafe when a commuter assigns impossible deadlines and insults me when I fail outside my workplace.,workplace
++This happened repeatedly: a teammate threatens poor ratings unless I accept inappropriate behavior near my home.,workplace
++I reported that a commuter pressures me with personal remarks unrelated to work in the classroom.,workplace
++I felt unsafe when a rider threatens poor ratings unless I accept inappropriate behavior in the parking area.,workplace
++I need help because a junior employee threatens poor ratings unless I accept inappropriate behavior in a group chat.,workplace
++I reported that a supervisor excludes me from key communication to sabotage my work in a meeting room.,workplace
++I felt unsafe when a neighbor assigns impossible deadlines and insults me when I fail in the classroom.,workplace
++I need help because a neighbor threatens poor ratings unless I accept inappropriate behavior in the office.,workplace
++Yesterday my ex-partner uses intimidation to silence me during reviews at the bus stop.,workplace
++I need help because a junior employee assigns impossible deadlines and insults me when I fail at a café.,workplace
++Yesterday a commuter repeatedly humiliates me in team meetings on campus.,workplace
++Yesterday a senior student pressures me with personal remarks unrelated to work in the office.,workplace
++I reported that a teammate excludes me from key communication to sabotage my work in a meeting room.,workplace
++Yesterday a customer assigns impossible deadlines and insults me when I fail in a group chat.,workplace
++I need help because a supervisor assigns impossible deadlines and insults me when I fail outside my workplace.,workplace
++Yesterday a customer threatens poor ratings unless I accept inappropriate behavior in the classroom.,workplace
++I need help because a classmate keeps messaging me after hours with harassing comments in the hostel.,workplace
++I need help because a classmate excludes me from key communication to sabotage my work on campus.,workplace
++This happened repeatedly: a junior employee pressures me with personal remarks unrelated to work at the bus stop.,workplace
++I reported that my ex-partner keeps messaging me after hours with harassing comments in a meeting room.,workplace
++I felt unsafe when a neighbor excludes me from key communication to sabotage my work in the parking area.,workplace
++I reported that a neighbor uses intimidation to silence me during reviews in the apartment corridor.,workplace
++This happened repeatedly: a commuter publicly blames me for mistakes I did not make in a group chat.,workplace
++I need help because a supervisor retaliated after I raised a complaint in the parking area.,workplace
++This happened repeatedly: a neighbor repeatedly humiliates me in team meetings during a team call.,workplace
++I reported that a coworker assigns impossible deadlines and insults me when I fail on campus.,workplace
++I reported that a commuter publicly blames me for mistakes I did not make at a store.,workplace
++Yesterday a commuter retaliated after I raised a complaint in the apartment corridor.,workplace
++I felt unsafe when a stranger pressures me with personal remarks unrelated to work at a café.,workplace
++Yesterday a senior student keeps messaging me after hours with harassing comments near my home.,workplace
++I reported that a senior student pushed me hard during an argument in the apartment corridor.,physical
++I need help because a coworker pushed me hard during an argument in the apartment corridor.,physical
++I need help because a teammate grabbed my arm forcefully and left marks outside my workplace.,physical
++I felt unsafe when a senior student threw an object at me to injure me in the office.,physical
++This happened repeatedly: a person in my building hit me repeatedly in a closed room during a team call.,physical
++This happened repeatedly: a rider blocked the exit and physically restrained me in the parking area.,physical
++I felt unsafe when a supervisor slapped me in front of other people at a café.,physical
++I felt unsafe when a commuter pushed me hard during an argument near my home.,physical
++Yesterday a junior employee twisted my wrist during a confrontation at a café.,physical
++I felt unsafe when a rider hit me repeatedly in a closed room on campus.,physical
++This happened repeatedly: a rider pushed me hard during an argument in a group chat.,physical
++I reported that a gamer threw an object at me to injure me in the office.,physical
++Yesterday a stranger punched me after I refused to comply at a café.,physical
++I reported that a rider blocked the exit and physically restrained me in the office.,physical
++I need help because a senior student threw an object at me to injure me in the apartment corridor.,physical
++I felt unsafe when someone at the gym slapped me in front of other people during commute.,physical
++This happened repeatedly: a teammate threw an object at me to injure me in a group chat.,physical
++I need help because a customer slapped me in front of other people during a team call.,physical
++This happened repeatedly: a teammate grabbed my arm forcefully and left marks at a store.,physical
++I reported that a neighbor grabbed my arm forcefully and left marks outside my workplace.,physical
++Yesterday a gamer twisted my wrist during a confrontation outside my workplace.,physical
++Yesterday a gamer twisted my wrist during a confrontation in a meeting room.,physical
++I reported that a junior employee threw an object at me to injure me during a team call.,physical
++I need help because a neighbor pulled my hair and shoved me near my home.,physical
++I need help because a vendor twisted my wrist during a confrontation at the bus stop.,physical
++I reported that a neighbor kicked me when I tried to walk away near my home.,physical
++I need help because a coworker pushed me hard during an argument in a group chat.,physical
++Yesterday a neighbor slapped me in front of other people at a store.,physical
++Yesterday a rider pulled my hair and shoved me at a store.,physical
++Yesterday a coworker pulled my hair and shoved me in the hostel.,physical
++I reported that a teammate threw an object at me to injure me at a store.,physical
++I felt unsafe when my ex-partner pushed me hard during an argument near my home.,physical
++This happened repeatedly: a junior employee slapped me in front of other people during commute.,physical
++I reported that a coworker punched me after I refused to comply in the parking area.,physical
++Yesterday a gamer blocked the exit and physically restrained me during commute.,physical
++I need help because someone at the gym threw an object at me to injure me in a group chat.,physical
++I need help because a rider hit me repeatedly in a closed room outside my workplace.,physical
++I need help because a coworker threw an object at me to injure me in the office.,physical
++I reported that a stranger blocked the exit and physically restrained me in a meeting room.,physical
++Yesterday a senior student kicked me when I tried to walk away in the parking area.,physical
++Yesterday my ex-partner threw an object at me to injure me in the office.,physical
++I reported that my ex-partner threw an object at me to injure me on campus.,physical
++I felt unsafe when my ex-partner twisted my wrist during a confrontation in the parking area.,physical
++I need help because a senior student blocked the exit and physically restrained me at a café.,physical
++I reported that my ex-partner blocked the exit and physically restrained me in the office.,physical
++I need help because a supervisor pushed me hard during an argument in a group chat.,physical
++I reported that someone at the gym punched me after I refused to comply in a group chat.,physical
++This happened repeatedly: a teammate punched me after I refused to comply during a team call.,physical
++I felt unsafe when a neighbor kicked me when I tried to walk away in the classroom.,physical
++Yesterday a coworker threw an object at me to injure me in the hostel.,physical
++This happened repeatedly: my ex-partner twisted my wrist during a confrontation at a café.,physical
++Yesterday someone at the gym grabbed my arm forcefully and left marks in the classroom.,physical
++I reported that someone at the gym pulled my hair and shoved me at the bus stop.,physical
++Yesterday a supervisor punched me after I refused to comply near my home.,physical
++Yesterday a senior student pulled my hair and shoved me in the apartment corridor.,physical
++I reported that a customer kicked me when I tried to walk away outside my workplace.,physical
++Yesterday a teammate threw an object at me to injure me in a meeting room.,physical
++I need help because a gamer pulled my hair and shoved me outside my workplace.,physical
++I reported that a rider blocked the exit and physically restrained me during commute.,physical
++Yesterday someone at the gym punched me after I refused to comply outside my workplace.,physical
++I reported that my ex-partner kicked me when I tried to walk away at the bus stop.,physical
++I felt unsafe when a supervisor blocked the exit and physically restrained me in the hostel.,physical
++A stranger sent one follow-up email about pending work in the office.,non-harassment
++Someone at the gym sent one follow-up email about pending work near my home.,non-harassment
++My ex-partner asked me to lower my voice in the library in the office.,non-harassment
++A customer returned my lost wallet at reception in the hostel.,non-harassment
++A supervisor asked me to resend a report I forgot to attach at a café.,non-harassment
++A coworker asked me to lower my voice in the library during commute.,non-harassment
++A supervisor reminded me about office attendance policy at a café.,non-harassment
++A neighbor looked at me briefly and then left in the apartment corridor.,non-harassment
++A classmate looked at me briefly and then left in the hostel.,non-harassment
++A stranger looked at me briefly and then left outside my workplace.,non-harassment
++My ex-partner declined my invitation politely at the bus stop.,non-harassment
++A senior student returned my lost wallet at reception in the parking area.,non-harassment
++My ex-partner returned my lost wallet at reception near my home.,non-harassment
++A classmate disagreed with my idea in a respectful discussion at the bus stop.,non-harassment
++A vendor reminded me about office attendance policy in the classroom.,non-harassment
++My ex-partner corrected my mistake without insults in the parking area.,non-harassment
++A commuter disagreed with my idea in a respectful discussion outside my workplace.,non-harassment
++A senior student reminded me about office attendance policy on campus.,non-harassment
++A stranger asked me to resend a report I forgot to attach in the apartment corridor.,non-harassment
++A commuter did not reply to my message for two days near my home.,non-harassment
++A neighbor disagreed with my idea in a respectful discussion in the classroom.,non-harassment
++A person in my building did not reply to my message for two days during commute.,non-harassment
++A classmate corrected my mistake without insults at a store.,non-harassment
++A customer declined my invitation politely on campus.,non-harassment
++A commuter asked me to resend a report I forgot to attach at a store.,non-harassment
++A supervisor reminded me about office attendance policy at a store.,non-harassment
++A commuter declined my invitation politely in a meeting room.,non-harassment
++A neighbor corrected my mistake without insults in a group chat.,non-harassment
++A neighbor corrected my mistake without insults during commute.,non-harassment
++A classmate asked me to lower my voice in the library in the classroom.,non-harassment
++A person in my building asked me to resend a report I forgot to attach in a meeting room.,non-harassment
++A rider looked at me briefly and then left on campus.,non-harassment
++A classmate looked at me briefly and then left outside my workplace.,non-harassment
++A neighbor looked at me briefly and then left in the apartment corridor (incident 2).,non-harassment
++A stranger did not reply to my message for two days in the parking area.,non-harassment
++A junior employee declined my invitation politely at the bus stop.,non-harassment
++A supervisor corrected my mistake without insults in a group chat.,non-harassment
++Someone at the gym returned my lost wallet at reception in the parking area.,non-harassment
++A person in my building declined my invitation politely outside my workplace.,non-harassment
++My ex-partner disagreed with my idea in a respectful discussion in the parking area.,non-harassment
++A gamer asked me to resend a report I forgot to attach on campus.,non-harassment
++A teammate asked me to resend a report I forgot to attach outside my workplace.,non-harassment
++A teammate asked me to resend a report I forgot to attach in a group chat.,non-harassment
++A senior student corrected my mistake without insults at a café.,non-harassment
++A person in my building sent one follow-up email about pending work at the bus stop.,non-harassment
++A teammate sent one follow-up email about pending work in a group chat.,non-harassment
++A coworker looked at me briefly and then left on campus.,non-harassment
++A stranger looked at me briefly and then left at a café.,non-harassment
++A rider returned my lost wallet at reception in the hostel.,non-harassment
++A rider looked at me briefly and then left during a team call.,non-harassment
++A person in my building returned my lost wallet at reception in a group chat.,non-harassment
++A vendor disagreed with my idea in a respectful discussion in the parking area.,non-harassment
++A commuter disagreed with my idea in a respectful discussion at a café.,non-harassment
++Someone at the gym corrected my mistake without insults on campus.,non-harassment
++A junior employee disagreed with my idea in a respectful discussion in the office.,non-harassment
++A junior employee sent one follow-up email about pending work on campus.,non-harassment
++A gamer did not reply to my message for two days in the parking area.,non-harassment
++A commuter declined my invitation politely in the parking area.,non-harassment
++A gamer looked at me briefly and then left near my home.,non-harassment
++A coworker looked at me briefly and then left at a store.,non-harassment
++A commuter sent one follow-up email about pending work in a meeting room.,non-harassment
++A coworker disagreed with my idea in a respectful discussion in a meeting room.,non-harassment
++A rider looked at me briefly and then left during commute.,non-harassment
++Someone at the gym asked me to resend a report I forgot to attach during a team call.,non-harassment
++A gamer asked me to resend a report I forgot to attach during a team call.,non-harassment
++A neighbor reminded me about office attendance policy outside my workplace.,non-harassment
+ 
+EOF
+)
