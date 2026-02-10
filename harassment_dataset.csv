@@ -1,4 +1,3 @@
- (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
 diff --git a/harassment_dataset.csv b/harassment_dataset.csv
 index c81a1e347242e0b279b94a19512de50299720152..2dd2bb6b9538524d07820a5ad10ee5fbbf7f1b86 100644
 --- a/harassment_dataset.csv
@@ -762,3 +761,4 @@ index c81a1e347242e0b279b94a19512de50299720152..2dd2bb6b9538524d07820a5ad10ee5fb
  
 EOF
 )
+
